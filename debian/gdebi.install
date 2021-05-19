@@ -1,0 +1,8 @@
+usr/share/gdebi/gdebi-gtk
+usr/share/gdebi/gdebi.ui
+usr/share/gdebi/gdebi.png
+usr/share/gdebi/GDebi/SimpleGtkbuilderApp.py
+usr/share/gdebi/GDebi/GDebiGtk.py
+usr/share/applications/*.desktop
+usr/share/application-registry
+usr/share/polkit-1/actions/com.ubuntu.pkexec.gdebi-gtk.policy
