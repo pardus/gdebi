@@ -1,3 +1,10 @@
+gdebi (0.9.5.7+nmu5pardus1) unstable; urgency=medium
+
+  * Add Turkish polkit message
+  * Update Turkish translations
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Thu, 01 Jul 2021 19:48:30 +0300
+
 gdebi (0.9.5.7+nmu5) unstable; urgency=medium
 
   * Non-maintainer upload.
