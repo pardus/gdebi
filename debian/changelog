@@ -1,3 +1,9 @@
+gdebi (0.9.5.7+nmu5pardus2) unstable; urgency=medium
+
+  * Fix exec command in desktop file for policykit problem
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Wed, 07 Jul 2021 10:28:38 +0300
+
 gdebi (0.9.5.7+nmu5pardus1) unstable; urgency=medium
 
   * Add Turkish polkit message
